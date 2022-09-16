@@ -1,5 +1,6 @@
-[![MasterHead](https://giphy.com/embed/26xBukhJ0i8KXADYc)]
+[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif)]
 <h1 align="center">Hi 👋, I'm Emmanuel Haankwenda</h1>
+
 <h3 align="center">A passionate full-stack developer from Zambia</h3>
 <p align="left"> <a href="https://twitter.com/emmanuel_haanks" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_haanks?logo=twitter&style=for-the-badge" alt="emmanuel_haanks" /></a> </p>
 
