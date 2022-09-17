@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, NextJS, ReactJS, Tailwind and Flutter**
 
-- 📫 How to reach me **emmanuel.haankwenda2018@gmail.com**
+- 📫 Reach me at **emmanuel.haankwenda2018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
