@@ -3,9 +3,9 @@
 <h3 align="center">A passionate full-stack developer based in Lusaka, Zambia</h3>
 <p align="left"> <a href="https://twitter.com/emmanuel_haanks" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_haanks?logo=twitter&style=for-the-badge" alt="emmanuel_haanks" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, NextJS, ReactJS, Flutter and many more.**
+- 🌱 I’m currently learning **Python, Django, DRF, NextJS/ReactJS, NuxtJS/VueJS, NodeJS/GraphQL and Flutter...**
 
-- 💬 Ask me about **Angular, NextJS, ReactJS, Tailwind and Flutter**
+- 💬 Ask me about **Python, Django, DRF, NextJS/ReactJS, NuxtJS/VueJS, NodeJS/GraphQL and Flutter**
 
 - 📫 Reach me at **emmanuel.haankwenda2018@gmail.com**
 
