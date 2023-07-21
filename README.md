@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Haankwenda</h1>
-
-<h3 align="center">A passionate Software Engineer based in Lusaka, Zambia</h3>
 <p align="left"> <a href="https://twitter.com/emmanuel_haanks" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_haanks?logo=twitter&style=for-the-badge" alt="emmanuel_haanks" /></a> </p>
 
 - 🌱 I’m currently learning **NuxtJS/VueJS, NodeJS/GraphQL and many more.**
