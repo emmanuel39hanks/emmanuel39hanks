@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Haankwenda</h1>
 <p align="left"> <a href="https://twitter.com/emmanuel_haanks" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_haanks?logo=twitter&style=for-the-badge" alt="emmanuel_haanks" /></a> </p>
 
-- 🌱 I’m currently learning **NuxtJS/VueJS, NodeJS/GraphQL and many more.**
-
-- 💬 Ask me about **Python, Django, DRF, NextJS/ReactJS, and Flutter**
+- 💬 Ask me about **Pytho, DRF, TypeScript, NestJS, GraphQL NextJS/ReactJS, Flutter and more**
 
 - 📫 Reach me at **emmanuel.haankwenda2018@gmail.com**
 
