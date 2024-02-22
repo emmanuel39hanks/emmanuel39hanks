@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Haankwenda</h1>
 <p align="left"> <a href="https://twitter.com/emmanuel_haanks" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_haanks?logo=twitter&style=for-the-badge" alt="emmanuel_haanks" /></a> </p>
 
-- 💬 Ask me about **Pytho, DRF, TypeScript, NestJS, GraphQL NextJS/ReactJS, Flutter and more**
+- 💬 Ask me about **Python, Django REST Framework, TypeScript, Node.js, NestJS, GraphQL, AWS, Flutter and more**
 
 - 📫 Reach me at **emmanuel.haankwenda2018@gmail.com**
 
