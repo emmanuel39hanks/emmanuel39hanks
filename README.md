@@ -5,14 +5,22 @@
   </a>
 </p>
 
-- 🔧 I’m a backend engineer with a strong focus on building robust, scalable systems.
+Here’s an improved, polished version tailored to highlight your strengths as a software engineer — more concise, better flow, and focused on technologies relevant to modern, high-impact teams:
 
-- 🧠 I specialize in:
-  - **Python & Django REST Framework** for clean, maintainable APIs  
-  - **Node.js & NestJS** for scalable TypeScript-based backend services  
-  - **GraphQL** for efficient, flexible data querying  
-  - **AWS** for cloud-native deployments and architecture  
-  - **Flutter** for cross-platform mobile development
+---
+
+* 🔧 I’m a backend-heavy software engineer focused on building scalable, maintainable systems that support real product needs.
+
+* 🧠 I specialize in:
+
+  * **Python & Django REST Framework** for robust, well-structured APIs
+  * **Node.js & NestJS** for building scalable, modular TypeScript services
+  * **GraphQL** for flexible, efficient client-server data exchange
+  * **React & Next.js** for building fast, modern web applications
+  * **PostgreSQL & Redis** for reliable data modeling and performance optimization
+  * **AWS (EC2, S3, CloudFront, RDS)** & **Docker** for cloud-native infrastructure and CI/CD
+  * **GitHub Actions** for automated testing and continuous deployment
+  * **OpenAI APIs** for integrating AI into developer tooling and workflows
 
 - 📫 Reach me at **emmanuel.haankwenda2018@gmail.com**
 
